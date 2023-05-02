@@ -100,3 +100,6 @@ with col2:
 
 with col3:
    st.write("  ")
+
+
+if __name__ == "__main__": st.run(port=8501)
